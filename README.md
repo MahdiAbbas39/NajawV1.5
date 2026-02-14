@@ -1,4 +1,3 @@
-```markdown
 # 🔒 Najwa | نجوى
 
 ### 💬 Meaning of the Name | معنى الاسم
