@@ -1,5 +1,5 @@
 # 🔒 Najwa | نجوى
-<img width="2816" height="1536" alt="Najaw for add" src="https://github.com/user-attachments/assets/be4ae02a-3f67-40d3-b772-48d5d5b75c74" />
+<img width="2469" height="1536" alt="Najaw for add" src="https://github.com/user-attachments/assets/b1f29f47-1a67-4428-93a9-2c0addb613cf" />
 
 ### 💬 Meaning of the Name | معنى الاسم
 **English:** "Najwa" is an Arabic word meaning **"Secret Conversation"** or **"Confidential Whisper"**. It symbolizes privacy and secure communication between two parties, which is the core philosophy of this project.
