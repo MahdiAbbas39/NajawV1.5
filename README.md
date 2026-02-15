@@ -1,4 +1,5 @@
 # 🔒 Najwa | نجوى
+<img width="2816" height="1536" alt="Najaw for add" src="https://github.com/user-attachments/assets/be4ae02a-3f67-40d3-b772-48d5d5b75c74" />
 
 ### 💬 Meaning of the Name | معنى الاسم
 **English:** "Najwa" is an Arabic word meaning **"Secret Conversation"** or **"Confidential Whisper"**. It symbolizes privacy and secure communication between two parties, which is the core philosophy of this project.
@@ -51,3 +52,4 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 ---
 
 **Developed by Mahdi Abbas** - CS Student & Cybersecurity Enthusiast.
+
